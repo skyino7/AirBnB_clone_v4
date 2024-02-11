@@ -21,6 +21,11 @@ button {
 button:hover {
     opacity: 0.9;
 }
+
+li input {
+    margin-left: 10px;
+}
+
 .filters div {
     display: inline-grid;
 }
